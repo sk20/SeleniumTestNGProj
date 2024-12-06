@@ -47,7 +47,7 @@
         <assertj.version>3.25.3</assertj.version>
         <datafaker.version>2.2.2</datafaker.version>
         <monte-screen-recorder.version>0.7.7.0</monte-screen-recorder.version>
-        <mysql-connector-java.version>8.0.33</mysql-connector-java.version>
+        <mysql-connector-java.version>9.1.0</mysql-connector-java.version>
         <google.zxing.version>3.5.3</google.zxing.version>
         <lombok.version>1.18.32</lombok.version>
         <google.guava.version>33.1.0-jre</google.guava.version>
@@ -56,7 +56,7 @@
         <jackson.version>2.17.0</jackson.version>
         <java-telegram-bot-api.version>7.2.1</java-telegram-bot-api.version>
         <commons-lang3.version>3.14.0</commons-lang3.version>
-        <mysql-connector-j.version>8.3.0</mysql-connector-j.version>
+        <mysql-connector-j.version>9.1.0</mysql-connector-j.version>
         <json-path.version>2.9.0</json-path.version>
 
         <maven.test.skip>false</maven.test.skip>
